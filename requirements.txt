@@ -1,4 +1,4 @@
-snumpy
+numpy
 pandas
 matplotlib
 seaborn
