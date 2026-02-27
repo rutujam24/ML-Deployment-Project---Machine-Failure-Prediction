@@ -1,19 +1,13 @@
-
-
-pandas :- Data loading & DataFrame operations
-
-numpy  :- Numerical computations
-
-scikit-learn :- Logistic Regression, Decision Tree, Random Forest, metrics, preprocessing
-
-imbalanced-learn :-SMOTE for handling class imbalance
-
-matplotlib :- Confusion matrix plots
-
-seaborn :- Heatmap visualization
-
-joblib :- Save & load model/pipeline
-
-streamlit :- Deploy ML web app
-
-Feature Importance 
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.7.1
+imbalanced-learn
+statsmodels
+plotly
+nbformat
+apyori
+ipykernel
+streamlit
+flask
